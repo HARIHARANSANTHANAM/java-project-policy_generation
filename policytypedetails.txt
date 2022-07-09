@@ -1,0 +1,129 @@
+﻿Comprehensive and Third-Party Car Insurance Explained
+
+Details Written by PolicyBazaar  -
+   Updated 17 February 2020
+
+When it comes to buying insurance for your car, you are supposed to consider plenty of important factors. One of these factors is the type of insurance coverage you are looking for your car. People tend to confuse between a comprehensive insurance policy and a third party insurance policy when looking for car insurance. This article will help you to understand the basic difference between both these car insurance policies:
+
+
+
+
+What is Comprehensive Insurance?
+
+Comprehensive insurance is a type of insurance that offers complete coverage protection against the damages to your vehicle due to an accident or a road-mishap. Also, a Comprehensive insurance policy provides coverage against damages due to natural and man-made calamities such as flood, fire, earthquake, theft, burglary etc.
+
+The coverage can be boosted by selecting additional covers, such as engine protector, accessories cover, medical expenses, zero depreciation cover, etc. This cover is widely popular, as it offers full-fledged coverage and it leaves the policyholder stress-free.
+
+A comprehensive car insurance plan includes coverage for fire, theft, natural and man-made catastrophes, such as a tornado, hurricane vandalism, damage caused to your vehicle by animals, falling objects, civil disturbance, such as a riot that causes damages to your car.
+
+￼
+
+
+
+
+The Benefits of Purchasing a Comprehensive Car Insurance Plan
+
+A comprehensive car insurance plan safeguards the insured vehicle against the following:
+
+Vandalism
+
+Theft
+
+Glass damage like as a damaged windshield
+
+Damages caused by a bird or an animal
+
+Damage caused by falling objects, missiles etc.
+
+Fire
+
+Flood
+
+Damages caused by a natural disaster like a wind storm, hail storm, tornado, hurricane, etc.
+
+Third-party liability
+
+Without a comprehensive insurance plan, a  claim can’t be filed if your car is damaged and the reason isn’t a road mishap.
+
+You may like to Read: What is Comprehensive Car Insurance
+
+Comprehensive Car Insurance Plan Exclusions
+
+Here are the factors that are excluded from the coverage of a comprehensive insurance plan:
+
+Wear and tear and aging of the automobile
+
+Depreciation
+
+Mechanical or electrical breakdown
+
+Damages caused to tubes and tyres. In case the vehicle has got its tubes and tyres damaged because of an accident, then the liability of the insurance provider would be restricted to 50 percent of the total replacement charges.
+
+Damages caused by a driver driving without a valid driving license.
+
+Damages caused due to driving under the influence of intoxicants.
+
+Any loss or damage due to mutiny war, or a nuclear attack
+
+
+
+
+
+Third-Party Car Insurance Plan
+
+A third-party car insurance plan provides coverage against any legal liability arising out of injuries to a third-party when the policyholder is at fault. It covers damages and injuries caused by the insured vehicle, to a third-party person or property. As per the Motor Vehicles Act, 1988, it is mandatory for every motor vehicle owner to buy at least third-party insurance coverage in India.
+
+
+
+Benefits of Purchasing a Third-Party Car Insurance Plan
+
+A third-party car insurance plan covers a vehicle’s owner against any legal liability, including death or bodily injury to a third party or damage to their property with the involvement of the insured vehicle. As per the Motor Vehicle Act, a third-party claim can be filed under the category of "no fault liability claims" in which the claimant is not obligatory to allege or prove the negligence on the part of the involved vehicle that has caused the accident or "fault liability claims".
+
+Third-Party Car Insurance Plan Exclusions
+
+A third-party car insurance plan doesn’t provide coverage for the cost of damage caused to any automobile or any belongings in the automobile if there is any accident. Along with that, it won’t provide coverage to your car or if you belongings are damaged or stolen.
+
+
+Class.forName("oracle.jdbc.driver.OracleDriver");
+            Connection con;
+            int policy=101;
+            con =DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:orcl","system","Hari21032001");
+            System.out.print(con);
+            Statement stm=con.createStatement();
+              ResultSet rs=stm.executeQuery("Select * from policyDetails where POLICY_ID='"+policy+"'");
+              while(rs.next())
+              {
+                  jLabel2.setText(rs.getString(3));
+              }
+        
+
+<html>
+Add-ons with Comprehensive Motor Insurance Policy
+<br>
+Listed below are few of the ‘Add on’ covers that can be availed at a slight premium over the basic motor<br> insurance policy cost.<br><br>
+
+Zero Depreciation
+<br><br>
+Age comes with its drawbacks. The same applies to your vehicle. The older it gets, the more the value of your <br>car or bike drops or ‘depreciates’. But, not to fret, Zero depreciation add-on ensures that the value of your <br>vehicle will remain as valuable as the day you bought it. After all, the insurer will not consider depreciation <br>during final settlement!
+<br><br>
+Engine Protection Cover
+<br><br>
+<br>Engine & Gearbox Protection Cover is an ‘Add on’ that offers financial protection for damages caused to <br>the engine of the vehicle. Any damage caused, from water entering the engine to leakage of the <br>lubricating oil, is covered under the policy.
+<br><br>
+Roadside Assistance
+<br><br>
+<br>How do you fancy your set of wheels breaking down on a lonely dacoit-infested road at the stroke of<br> midnight? Fear not, roadside assistance is there to rescue. All you need to do is give them a call and they’ll<br> come to the spot and repair your vehicle. If not possible, they will tow it to the nearest service <br>station. At least you’ll be dacoit-free!   
+<br><br>
+Consumable Cover
+<br><br>
+Nowadays, motor insurance companies provide a consumable cover add-on to cover the service costs of your<br> vehicle, from the new engine oil put into your vehicle right to that missing nut on your engine cover.<br> 
+<br><br>
+Return to Invoice Cover
+<br><br>
+In case of theft or damages beyond repair, return to invoice add-on gives you the benefit of getting back the<br> complete amount of your car/bike invoice value, including the cost of registering a new vehicle and its <br>road tax respectively.<br><br>
+<br><br>
+Tyre Protect Cover
+<br><br>
+Generally, tyre damage isn't covered in standard insurance unless the damage takes place during an accident. <br>That's why this tyre protect add-on gives you the benefit to safeguard and cover for your car's tyre<br> damages such as tyre bursts, bulges or cuts during all other situations possible.
+
+</html>
